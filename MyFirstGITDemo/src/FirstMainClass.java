@@ -14,6 +14,8 @@ public class FirstMainClass {
 		
 		System.out.println("I am in static method");
 		
+		System.out.println("GIT first change checking....");
+		
 	}
 
 }
